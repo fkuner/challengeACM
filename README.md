@@ -1,11 +1,5 @@
 # 1 前言
-
-项目为[《挑战程序设计竞赛（第2版）》](http://www.ituring.com.cn/book/1044)习题册攻略，已完结。可配合书籍或笔记，系统学习算法。
-
-* 题量：约200道，代码注释内含详解。
-* 难度：总体高于Leetcode，部分接近ACM。
-* 题解：代码均AC，题解个人向；Bug或优化请建Issue或Pull Request。
-
+《挑战程序设计竞赛》解题报告
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
