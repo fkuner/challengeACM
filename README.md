@@ -1,5 +1,8 @@
 # 1 前言
+>参考：https://github.com/yogykwan/acm-challenge-workbook
+
 《挑战程序设计竞赛》解题报告
+
 # 1.1 题库来源
 - Google Code Jam（[GCJ](https://code.google.com/codejam)）
 - Peking University Online Judge（[POJ](http://poj.org/)）
@@ -7,12 +10,7 @@
 - UVa Online Judge（[UVa](https://uva.onlinejudge.org/)）
 - CodeForces（[CF](http://codeforces.com/)）
 
-# 1.2 算法笔记
-- [初级篇](http://jennica.space/2016/10/14/acm-challenge-easy/)
-- [中级篇](http://jennica.space/2016/11/16/acm-challenge-medium/)
-- [高级篇](http://jennica.space/2016/11/30/acm-challenge-hard/)
-
-# 1.3 题库目录
+# 1.2 题库目录
 
 * 初级： 
 [穷竭搜索](#21-穷竭搜索)、
