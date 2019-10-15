@@ -158,7 +158,7 @@
   
 # 3.2 常用技巧
 - 尺取法
-  - [x] [POJ 2566: Bound Found](http://poj.org/problem?id=2566)
+  - [x] [POJ 2566: Bound Found](./notes/poj2566.md)
   - [x] [POJ 2739: Sum of Consecutive Prime Numbers](http://poj.org/problem?id=2739)
   - [x] [POJ 2100: Graveyard Design](http://poj.org/problem?id=2100)
 
